@@ -1,5 +1,4 @@
-Sistema de Ordem de Serviço
-Projeto desenvolvido em Java com Spring Boot para gerenciamento de ordens de serviço.
+Sistema de Controle de chamados desenvolvido em Java com Spring Boot para gerenciamento de ordens de serviço.
 
 Tecnologias utilizadas:
 
