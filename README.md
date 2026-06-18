@@ -43,3 +43,4 @@ Sistema de controle de chamados de TI desenvolvido em Java para gerenciamento de
 ```
 mvn test
 ```
+## Apresentação: https://www.canva.com/design/DAHK6FvnARo/RWIs4uVhT3pGvskJxfckFA/edit
