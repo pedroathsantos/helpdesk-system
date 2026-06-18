@@ -1,3 +1,8 @@
+**Integrantes:** 
+Isadora Correa Lopes - RA - 12413354
+Pedro Arthur Moreira Santos - RA - 123222807
+Vitoria Sofia B N Lopes - RA - 124115846
+
 # Sistema de HelpDesk
 
 Sistema de controle de chamados de TI desenvolvido em Java para gerenciamento de ordens de servico.
